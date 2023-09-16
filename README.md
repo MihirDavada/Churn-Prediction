@@ -27,4 +27,11 @@
 
   ![image](https://github.com/MihirDavada/Churn-Prediction/assets/101976200/3a3bdc51-fc16-47c0-b7e5-97f8d56c4ccd)
 
+  ![image](https://github.com/MihirDavada/Churn-Prediction/assets/101976200/09952e89-92e5-4d69-a738-81b6fdd67e5f)
+  
+  ![image](https://github.com/MihirDavada/Churn-Prediction/assets/101976200/c13db96a-1d2f-48e6-a93d-af8807536676)
+  
+  ![image](https://github.com/MihirDavada/Churn-Prediction/assets/101976200/76b25a8b-a002-4ee6-aef8-cae269d6a50e)
+
+
 Monitoring and Retention Strategies: Continuously monitor the model's performance and apply retention strategies to reduce customer churn.
